@@ -1,0 +1,11 @@
+Package: com.udevs.morsecli
+Name: morse
+Depends: firmware(>=13.0)
+Version: 0.1.1
+Architecture: iphoneos-arm
+Description: Translate text into morse code using the highly precise Taptic Engine (iOS 13+)
+Maintainer: udevs
+Author: udevs
+Section: System
+Tag: role::hacker
+Depiction: https://udevsharold.github.io/repo/depictions/?p=com.udevs.morsecli
